@@ -1,10 +1,8 @@
-version: '3.8'
-
 services:
-  schedulingapi:
+  agendamentogapi:
     container_name: agendamento_api
     build:
-      context: .
+      context: ./AgendamentoAPI
       dockerfile: Dockerfile
     ports:
       - "8080:8080"
@@ -27,4 +25,13 @@ services:
       - "5432:5432"
     volumes:
       - postgres_data:/var/lib/postgresql/data
-      - ./init-db:/docker-entrypoint-initdb.d
+      - ./AgendamentoAPI/init-db:/docker-entrypoint-initdb.d
+    healthcheck:
+      test: ["CMD", "pg_isready", "-U", "agendamento_user"]
+      interval: 10s
+      retries: 5
+      start_period: 5s
+      timeout: 5s
+
+volumes:
+  postgres_data:
