@@ -1,0 +1,23 @@
+@api_host = http://localhost:8080
+
+###
+# @name LoginRequest
+# Requisição para fazer login e obter um token
+POST {{api_host}}/api/auth/login
+Content-Type: application/json
+
+{
+  "email": "usuario@exemplo.com",
+  "senha": "senha123"
+}
+
+###
+# @name GetAgendamentos
+# Requisição para buscar agendamentos (requer autenticação)
+# Note que ele pode usar variáveis do resultado de outras requisições
+@token = {{LoginRequest.response.body.accessToken}}
+
+GET {{api_host}}/api/agendamentos
+Authorization: Bearer {{token}}
+
+###

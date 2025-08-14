@@ -1,0 +1,573 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|AgendamentoAPI.csproj|c:\\users\\wesley.santos\\source\\repos\\schedulingapi\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|AgendamentoAPI.csproj|solutionrelative:.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|AgendamentoAPI.csproj|c:\\users\\wesley.santos\\source\\repos\\schedulingapi\\models\\especialidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|AgendamentoAPI.csproj|solutionrelative:models\\especialidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|SchedulingAPI.csproj|c:\\users\\wesley.santos\\source\\repos\\schedulingapi\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|SchedulingAPI.csproj|solutionrelative:models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|SchedulingAPI.csproj|c:\\users\\wesley.santos\\source\\repos\\schedulingapi\\models\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|SchedulingAPI.csproj|solutionrelative:models\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|AgendamentoAPI.csproj|c:\\users\\wesley.santos\\source\\repos\\schedulingapi\\models\\medicoespecialidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|AgendamentoAPI.csproj|solutionrelative:models\\medicoespecialidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|AgendamentoAPI.csproj|c:\\users\\wesley.santos\\source\\repos\\schedulingapi\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|AgendamentoAPI.csproj|solutionrelative:models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|SchedulingAPI.csproj|c:\\users\\wesley.santos\\source\\repos\\schedulingapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|SchedulingAPI.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|SchedulingAPI.csproj|c:\\users\\wesley.santos\\source\\repos\\schedulingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|SchedulingAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|SchedulingAPI.csproj|c:\\users\\wesley.santos\\source\\repos\\schedulingapi\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|SchedulingAPI.csproj|solutionrelative:services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|AgendamentoAPI.csproj|c:\\users\\wesley.santos\\source\\repos\\schedulingapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|AgendamentoAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|SchedulingAPI.csproj|c:\\users\\wesley.santos\\source\\repos\\schedulingapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|SchedulingAPI.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|AgendamentoAPI.csproj|c:\\users\\wesley.santos\\source\\repos\\schedulingapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|AgendamentoAPI.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|SchedulingAPI.csproj|c:\\users\\wesley.santos\\source\\repos\\schedulingapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|SchedulingAPI.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|SchedulingAPI.csproj|c:\\users\\wesley.santos\\source\\repos\\schedulingapi\\services\\agendamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|SchedulingAPI.csproj|solutionrelative:services\\agendamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|AgendamentoAPI.csproj|c:\\users\\wesley.santos\\source\\repos\\schedulingapi\\dtos\\auth\\refreshtokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|AgendamentoAPI.csproj|solutionrelative:dtos\\auth\\refreshtokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|SchedulingAPI.csproj|c:\\users\\wesley.santos\\source\\repos\\schedulingapi\\controllers\\medicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|SchedulingAPI.csproj|solutionrelative:controllers\\medicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|AgendamentoAPI.csproj|c:\\users\\wesley.santos\\source\\repos\\schedulingapi\\dtos\\auth\\usuarioinforesponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|AgendamentoAPI.csproj|solutionrelative:dtos\\auth\\usuarioinforesponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|AgendamentoAPI.csproj|c:\\users\\wesley.santos\\source\\repos\\schedulingapi\\dtos\\auth\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|AgendamentoAPI.csproj|solutionrelative:dtos\\auth\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|SchedulingAPI.csproj|c:\\users\\wesley.santos\\source\\repos\\schedulingapi\\dtos\\agendamento\\criaragendamentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|SchedulingAPI.csproj|solutionrelative:dtos\\agendamento\\criaragendamentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|SchedulingAPI.csproj|c:\\users\\wesley.santos\\source\\repos\\schedulingapi\\dtos\\agendamento\\agendamentoresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|SchedulingAPI.csproj|solutionrelative:dtos\\agendamento\\agendamentoresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|AgendamentoAPI.csproj|c:\\users\\wesley.santos\\source\\repos\\schedulingapi\\enums\\statusconsulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|AgendamentoAPI.csproj|solutionrelative:enums\\statusconsulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|AgendamentoAPI.csproj|c:\\users\\wesley.santos\\source\\repos\\schedulingapi\\models\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|AgendamentoAPI.csproj|solutionrelative:models\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|AgendamentoAPI.csproj|c:\\users\\wesley.santos\\source\\repos\\schedulingapi\\services\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|AgendamentoAPI.csproj|solutionrelative:services\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|AgendamentoAPI.csproj|c:\\users\\wesley.santos\\source\\repos\\schedulingapi\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|AgendamentoAPI.csproj|solutionrelative:services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|AgendamentoAPI.csproj|c:\\users\\wesley.santos\\source\\repos\\schedulingapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|AgendamentoAPI.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|AgendamentoAPI.csproj|c:\\users\\wesley.santos\\source\\repos\\schedulingapi\\agendamentoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|AgendamentoAPI.csproj|solutionrelative:agendamentoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|AgendamentoAPI.csproj|c:\\users\\wesley.santos\\source\\repos\\schedulingapi\\schedulingapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|AgendamentoAPI.csproj|solutionrelative:schedulingapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|SchedulingAPI.csproj|c:\\users\\wesley.santos\\source\\repos\\schedulingapi\\dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|SchedulingAPI.csproj|solutionrelative:dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|SchedulingAPI.csproj|c:\\users\\wesley.santos\\source\\repos\\schedulingapi\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|SchedulingAPI.csproj|solutionrelative:controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|SchedulingAPI.csproj|c:\\users\\wesley.santos\\source\\repos\\schedulingapi\\repository\\implementations\\agendamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|SchedulingAPI.csproj|solutionrelative:repository\\implementations\\agendamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|SchedulingAPI.csproj|c:\\users\\wesley.santos\\source\\repos\\schedulingapi\\repository\\interfaces\\iagendamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB322A4-8C6B-4141-8CCD-F8F160EE8F2F}|SchedulingAPI.csproj|solutionrelative:repository\\interfaces\\iagendamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 96,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\.env",
+              "RelativeDocumentMoniker": ".env",
+              "ToolTip": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\.env",
+              "RelativeToolTip": ".env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-14T17:34:20.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T10:58:01.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\Services\\JwtService.cs",
+              "RelativeToolTip": "Services\\JwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T11:09:37.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Especialidade.cs",
+              "DocumentMoniker": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\Models\\Especialidade.cs",
+              "RelativeDocumentMoniker": "Models\\Especialidade.cs",
+              "ToolTip": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\Models\\Especialidade.cs",
+              "RelativeToolTip": "Models\\Especialidade.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T11:25:27.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Medico.cs",
+              "DocumentMoniker": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\Models\\Medico.cs",
+              "RelativeDocumentMoniker": "Models\\Medico.cs",
+              "ToolTip": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\Models\\Medico.cs",
+              "RelativeToolTip": "Models\\Medico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T11:06:52.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MedicoEspecialidade.cs",
+              "DocumentMoniker": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\Models\\MedicoEspecialidade.cs",
+              "RelativeDocumentMoniker": "Models\\MedicoEspecialidade.cs",
+              "ToolTip": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\Models\\MedicoEspecialidade.cs",
+              "RelativeToolTip": "Models\\MedicoEspecialidade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T12:09:38.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\Models\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "Models\\RefreshToken.cs",
+              "ToolTip": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\Models\\RefreshToken.cs",
+              "RelativeToolTip": "Models\\RefreshToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T12:10:33.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\Models\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T11:06:26.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\Models\\Paciente.cs",
+              "RelativeDocumentMoniker": "Models\\Paciente.cs",
+              "ToolTip": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\Models\\Paciente.cs",
+              "RelativeToolTip": "Models\\Paciente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T11:06:40.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\Services\\AuthService.cs",
+              "RelativeToolTip": "Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T11:08:57.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T11:17:39.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T11:00:47.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AgendamentoService.cs",
+              "DocumentMoniker": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\Services\\AgendamentoService.cs",
+              "RelativeDocumentMoniker": "Services\\AgendamentoService.cs",
+              "ToolTip": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\Services\\AgendamentoService.cs",
+              "RelativeToolTip": "Services\\AgendamentoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T11:10:32.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-14T13:44:57.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RefreshTokenRequest.cs",
+              "DocumentMoniker": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\DTOs\\Auth\\RefreshTokenRequest.cs",
+              "RelativeDocumentMoniker": "DTOs\\Auth\\RefreshTokenRequest.cs",
+              "ToolTip": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\DTOs\\Auth\\RefreshTokenRequest.cs",
+              "RelativeToolTip": "DTOs\\Auth\\RefreshTokenRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T14:25:52.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UsuarioInfoResponse.cs",
+              "DocumentMoniker": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\DTOs\\Auth\\UsuarioInfoResponse.cs",
+              "RelativeDocumentMoniker": "DTOs\\Auth\\UsuarioInfoResponse.cs",
+              "ToolTip": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\DTOs\\Auth\\UsuarioInfoResponse.cs",
+              "RelativeToolTip": "DTOs\\Auth\\UsuarioInfoResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T14:08:41.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthResponse.cs",
+              "DocumentMoniker": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\DTOs\\Auth\\AuthResponse.cs",
+              "RelativeDocumentMoniker": "DTOs\\Auth\\AuthResponse.cs",
+              "ToolTip": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\DTOs\\Auth\\AuthResponse.cs",
+              "RelativeToolTip": "DTOs\\Auth\\AuthResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T13:43:48.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CriarAgendamentoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\DTOs\\Agendamento\\CriarAgendamentoDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\Agendamento\\CriarAgendamentoDTO.cs",
+              "ToolTip": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\DTOs\\Agendamento\\CriarAgendamentoDTO.cs",
+              "RelativeToolTip": "DTOs\\Agendamento\\CriarAgendamentoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T11:05:02.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MedicoController.cs",
+              "DocumentMoniker": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\Controllers\\MedicoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MedicoController.cs",
+              "ToolTip": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\Controllers\\MedicoController.cs",
+              "RelativeToolTip": "Controllers\\MedicoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T11:02:39.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AgendamentoResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\DTOs\\Agendamento\\AgendamentoResponseDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\Agendamento\\AgendamentoResponseDTO.cs",
+              "ToolTip": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\DTOs\\Agendamento\\AgendamentoResponseDTO.cs",
+              "RelativeToolTip": "DTOs\\Agendamento\\AgendamentoResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T11:05:29.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StatusConsulta.cs",
+              "DocumentMoniker": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\Enums\\StatusConsulta.cs",
+              "RelativeDocumentMoniker": "Enums\\StatusConsulta.cs",
+              "ToolTip": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\Enums\\StatusConsulta.cs",
+              "RelativeToolTip": "Enums\\StatusConsulta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T13:37:29.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Consulta.cs",
+              "DocumentMoniker": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\Models\\Consulta.cs",
+              "RelativeDocumentMoniker": "Models\\Consulta.cs",
+              "ToolTip": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\Models\\Consulta.cs",
+              "RelativeToolTip": "Models\\Consulta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T11:07:06.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IJwtService.cs",
+              "DocumentMoniker": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\Services\\interfaces\\IJwtService.cs",
+              "RelativeDocumentMoniker": "Services\\interfaces\\IJwtService.cs",
+              "ToolTip": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\Services\\interfaces\\IJwtService.cs",
+              "RelativeToolTip": "Services\\interfaces\\IJwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T13:50:18.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\Services\\interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Services\\interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\Services\\interfaces\\IAuthService.cs",
+              "RelativeToolTip": "Services\\interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T13:47:44.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwB0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-14T11:12:46.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SchedulingAPI",
+              "DocumentMoniker": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\AgendamentoAPI.csproj",
+              "RelativeDocumentMoniker": "AgendamentoAPI.csproj",
+              "ToolTip": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\AgendamentoAPI.csproj",
+              "RelativeToolTip": "AgendamentoAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-14T11:02:57.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SchedulingAPI.http",
+              "DocumentMoniker": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\SchedulingAPI.http",
+              "RelativeDocumentMoniker": "SchedulingAPI.http",
+              "ToolTip": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\SchedulingAPI.http",
+              "RelativeToolTip": "SchedulingAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-08-14T11:13:21.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\DTOs\\Auth\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\Auth\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\DTOs\\Auth\\LoginDTO.cs",
+              "RelativeToolTip": "DTOs\\Auth\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T11:03:50.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PacienteController.cs",
+              "DocumentMoniker": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\Controllers\\PacienteController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PacienteController.cs",
+              "ToolTip": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\Controllers\\PacienteController.cs",
+              "RelativeToolTip": "Controllers\\PacienteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T11:02:24.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AgendamentoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\Repository\\Implementations\\AgendamentoRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Implementations\\AgendamentoRepository.cs",
+              "ToolTip": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\Repository\\Implementations\\AgendamentoRepository.cs",
+              "RelativeToolTip": "Repository\\Implementations\\AgendamentoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T11:11:28.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IAgendamentoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\Repository\\Interfaces\\IAgendamentoRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interfaces\\IAgendamentoRepository.cs",
+              "ToolTip": "C:\\Users\\wesley.santos\\source\\repos\\SchedulingAPI\\Repository\\Interfaces\\IAgendamentoRepository.cs",
+              "RelativeToolTip": "Repository\\Interfaces\\IAgendamentoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T11:11:13.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 124,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
